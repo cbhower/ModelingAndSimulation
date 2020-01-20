@@ -4,5 +4,5 @@ dMontyHall is a simulation of the Monty Hall games with d Doors.
 
 EstimatePi_MontyCarlo is a monte carlo approach for calculating pi.
 
-ODE_Simulations is a number of ordinary differential equations.
+ODE_Simulations is a number of systems of ordinary differential equations.
 
